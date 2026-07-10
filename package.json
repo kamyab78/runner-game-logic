@@ -1,0 +1,21 @@
+{
+  "name": "com.kamyab.hyper-casual-runner",
+  "version": "1.0.0",
+  "displayName": "Hyper Casual Runner Engine",
+  "description": "Lane-based forward runner framework: level text parser, movement, collision dispatch, finish-line scoring.",
+  "unity": "2022.2",
+  "author": {
+    "name": "Kamyab"
+  },
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Runner",
+      "description": "Placeholder player and wiring example for a new game.",
+      "path": "Samples~/BasicRunner"
+    }
+  ]
+}
