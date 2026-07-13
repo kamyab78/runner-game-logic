@@ -1,3 +1,5 @@
+using UnityEngine;
+
 namespace HyperCasualRunner
 {
     public class RunnerGainControl : MonoBehaviour, ICollideWithMouth
